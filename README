@@ -1,0 +1,7 @@
+sudo apt install sml ml-yacc ml-lex ml-lpt
+
+Launch an sml interpreter (from emacs, C-c C-s).
+
+- Calc.parse();
+1 + 2;
+result = 3
